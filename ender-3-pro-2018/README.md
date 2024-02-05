@@ -19,7 +19,6 @@ List of mods installed:
 - Microswiss all-metal hotend
 
 - Bondtech BMG extruder
-- StepperOnline Nema 17 - 17HS10-0704S
+- StepperOnline Nema 17 - 17HS10-0704S for extruder
 
-List of STL mods:
-- #TODO#
+
